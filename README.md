@@ -1,3 +1,4 @@
+
 # __uniprot-assignment__
 
 ## GTP binding site
@@ -15,3 +16,6 @@
 5. 	VAR_016029> at position	13:changes of G>D
 6. 	VAR_016030> at position	59:changes of A>T
 
+## yes high res structures are available to view the mutations
+
+![Screenshot from 2022-07-15 15-28-26](https://user-images.githubusercontent.com/97890823/179224702-9ebbf80f-be3d-4f47-b36f-858609b7b968.png)

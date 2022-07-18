@@ -1,5 +1,5 @@
 
-# __uniprot-assignment__
+# __exploring uniprot
 
 ## GTP binding site
 1. AA> 10-18 : Sequence: GAGGVGKSA
@@ -18,4 +18,21 @@
 
 ## yes high res structures are available to view the mutations
 
-![Screenshot from 2022-07-15 15-28-26](https://user-images.githubusercontent.com/97890823/179224702-9ebbf80f-be3d-4f47-b36f-858609b7b968.png)
+
+
+![4epv_screenshot](https://user-images.githubusercontent.com/97890823/179456960-b9cb1025-bc40-47a5-a725-6f6b481f3834.png)
+
+
+
+375 sequences found in homo sapiens
+
+![Screenshot from 2022-07-18 09-18-15](https://user-images.githubusercontent.com/97890823/179457008-a48881cb-472a-4dff-adcb-7fbd34dd0e47.png)
+
+for Eukaryotes 110774 sequences of the protein are distributed over  1598 species 
+for archaea  90 sequences over  23 species 
+and for bacteria 432 sequences of the protein are distributed over 361 species
+
+from the hidden Markov models(HMM), lysine is high frequency of appearing  in the first position of the AA , glutamic acid at the 6th and 11th and so on... basically the letter height of the HHM  divides the stack height according to the letter frequency.
+
+![Screenshot from 2022-07-18 09-52-02](https://user-images.githubusercontent.com/97890823/179458905-9f77e3a1-e7dd-4dc2-acd3-d38f1542b43f.png)
+![Screenshot from 2022-07-18 09-58-08](https://user-images.githubusercontent.com/97890823/179459559-7551a53c-8c7e-4d83-8913-1d4dbc5117c0.png)

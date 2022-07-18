@@ -32,7 +32,7 @@ for Eukaryotes 110774 sequences of the protein are distributed over  1598 specie
 for archaea  90 sequences over  23 species 
 and for bacteria 432 sequences of the protein are distributed over 361 species
 
-from the hidden Markov models(HMM), lysine is high frequency of appearing  in the first position of the AA , glutamic acid at the 6th and 11th and so on... basically the letter height of the HHM  divides the stack height according to the letter frequency.
+from the hidden Markov models(HMM), lysine is high frequency of appearing  in the first position of the AA , glutamic acid at the 6th and 11th and so on... basically the letter height of the HHM  divides the stack height according to the letter frequency it is also very evident with the alignment  data. highly conserved regions of the sequences are color coded. see below
 
 ![Screenshot from 2022-07-18 09-52-02](https://user-images.githubusercontent.com/97890823/179458905-9f77e3a1-e7dd-4dc2-acd3-d38f1542b43f.png)
 ![Screenshot from 2022-07-18 09-58-08](https://user-images.githubusercontent.com/97890823/179459559-7551a53c-8c7e-4d83-8913-1d4dbc5117c0.png)

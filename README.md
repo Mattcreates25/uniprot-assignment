@@ -1,5 +1,5 @@
 
-# __exploring uniprot
+# __exploring uniprot__
 
 ## GTP binding site
 1. AA> 10-18 : Sequence: GAGGVGKSA
